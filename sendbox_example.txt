@@ -1,0 +1,5 @@
+Mod name: {Enter mod or tool} name
+Description: {What mod or tool has...}
+License: {If Needed}
+Website: {Recommended. You can try out github as hosting. Website can be mod specific or yours with mod}
+Creator: {Your Name}
