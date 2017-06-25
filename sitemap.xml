@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://bads-tm.github.io/swine/</loc>
+   </url>
+   <url>
+      <loc>https://bads-tm.github.io/swine/tools</loc>
+   </url>
+      <url>
+      <loc>https://bads-tm.github.io/swine/guides</loc>
+   </url>
+      <url>
+      <loc>https://bads-tm.github.io/swine/otherdownloads</loc>
+   </url>
+      <url>
+      <loc>https://bads-tm.github.io/swine/usermods</loc>
+   </url>
+         <url>
+      <loc>https://bads-tm.github.io/swine/standalonemods</loc>
+   </url>
+         <url>
+      <loc>https://bads-tm.github.io/swine/customlaunchers</loc>
+   </url>
+         <url>
+      <loc>https://bads-tm.github.io/swine/contact</loc>
+   </url>
+         <url>
+      <loc>https://bads-tm.github.io/swine/about</loc>
+   </url>
+</urlset> 
+
+<!--
+S.W.I.N.E. COMMUNITY CW
+SITEMAP
+Some (C) to 2017 bads.tm
+=============================
+index 1 +
+- Downloads
+tools 2 -
+getgame 3 -
+guides 4 -
+otherdownloads 5 -
+- Mods
+usermods 6 -
+standalonemods 7 -
+customlaunchers 8 -
+-
+othercommunitysites 9 -
+contact 10 -
+about 11 -
+-->
